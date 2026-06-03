@@ -58,7 +58,7 @@ A job-tracking dashboard built with Next.js, React, Prisma, Clerk, and Tailwind 
 
 ## 🌐 Deploy
 
-Deploy link: **[Add your deployment URL here]**
+Deploy link: **[[JobJourney](https://jobjourney-vpbj.onrender.com)]**
 
 ## 🎓 What I learned
 
