@@ -6,7 +6,7 @@ import "dayjs";
 import { redirect } from "next/navigation";
 import { createAndEditJobSchema, CreateAndEditJobType, JobType } from "./types";
 import dayjs from "dayjs";
-import { Prisma } from "@/lib/generated/prisma/client";
+import { Prisma } from "@/prisma/generated/client";
 
 const authenticateAndRedirect = async (): Promise<string> => {
   const { userId } = await auth();
